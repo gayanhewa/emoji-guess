@@ -2,13 +2,15 @@
     "questions": [
         {
             "challenge": "🪵  ⛏️ ",
+            "answer": "minecraft",
             "hint": "Game",
-            "tag": ["games"]
+            "tags": ["games"]
         },
         {
             "challenge": "🪨 🧻 ✂️",
+            "answer": "rock paper scissors",
             "hint": "Game",
-            "tag": ["games"]
+            "tags": ["games"]
         }
     ]
 }
